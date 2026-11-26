@@ -316,3 +316,20 @@ The objective of QueueLess is to digitize traditional queue management, reduce u
 
 \*\*QueueLess – Making queues simpler, smarter, and more efficient.\*\*
 
+
+## Application Screenshots
+
+### 1. Customer Portal
+Users can enter their name and join the queue digitally.
+
+![Customer Portal](screenshots/customer-portal.png)
+
+### 2. Digital Ticket
+Customers receive a digital ticket displaying their token number, queue position, and estimated waiting time.
+
+![Digital Ticket](screenshots/digital-ticket.png)
+
+### 3. Admin Dashboard
+Administrators can monitor queue statistics, call the next customer, skip customers, and complete services.
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
